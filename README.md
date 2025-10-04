@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Ola!</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Olá! Sou Eduarda, estudante de Análise e Desenvolvimento de Sistemas pela Newton Paiva e programadora Full Stack pela Infinity School. Atualmente, atuo como estagiária de desenvolvimento web Full Stack, trabalhando com tecnologias como JavaScript, Node.js, Webix, Express, MongoDB, Redis, entre outras.<br><br>Tenho como objetivo sempre estar em aprendizado contínuo, aprimorando minhas habilidades e contribuindo para projetos inovadores na área de tecnologia. Acredito que o desenvolvimento é uma jornada constante, e estou sempre em busca de novas soluções e desafios.<br><br>Fora do mundo da programação, adoro escutar música, jogar vôlei, encontrar com familiares e amigos e cozinhar — atividades que me ajudam a equilibrar a vida profissional e pessoal.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas pela Newton Paiva e programadora Full Stack pela Infinity School. Atualmente, atuo como estagiária de desenvolvimento web Full Stack, trabalhando com tecnologias como JavaScript, Node.js, Webix, Express, MongoDB, Redis, entre outras.<br><br>Tenho como objetivo sempre estar em aprendizado contínuo, aprimorando minhas habilidades e contribuindo para projetos inovadores na área de tecnologia. Acredito que o desenvolvimento é uma jornada constante, e estou sempre em busca de novas soluções e desafios.<br><br>Fora do mundo da programação, adoro escutar música, jogar vôlei, encontrar com familiares e amigos e cozinhar — atividades que me ajudam a equilibrar a vida profissional e pessoal.</p>
 
 ###
 
