@@ -1,55 +1,37 @@
-<h1 align="left">Ola!</h1>
+# Olá, eu sou a Eduarda 👋
 
-###
+Desenvolvedora Full Stack Júnior · Estudante de Análise e Desenvolvimento de Sistemas
 
-<p align="left">Meu nome é Eduarda, curso Análise e desenvolvimento de sistemas, com foco em Programação Full Stack.</p>
+[LinkedIn](https://www.linkedin.com/in/eduarda-pessanha/) · [Email](mailto:eduardaluizapessanha@gmail.com)
 
-###
+---
 
-<div align="center">
-  <img height="250" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header1.png?raw=true"  />
-</div>
+### Sobre mim
 
-###
+Atuo como Desenvolvedora Full Stack Júnior na **Oppem**, startup de tecnologia focada na digitalização e automação de contratos e gestão de obras. Comecei como estagiária e hoje sigo no time com mais autonomia, participando ativamente da migração de um sistema legado para uma nova arquitetura em **React, Next.js e PostgreSQL**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
+Curso Análise e Desenvolvimento de Sistemas na Universidade Newton Paiva e sou formada em Programação Full Stack pela Infinity School.
 
-###
+Gosto de aprender continuamente e aplicar boas práticas no dia a dia, incluindo o uso responsável de IA para automatizar tarefas e apoiar o desenvolvimento.
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas pela Newton Paiva e programadora Full Stack pela Infinity School. Atualmente, atuo como estagiária de desenvolvimento web Full Stack, trabalhando com tecnologias como JavaScript, Node.js, Webix, Express, MongoDB, Redis, entre outras.<br><br>Tenho como objetivo sempre estar em aprendizado contínuo, aprimorando minhas habilidades e contribuindo para projetos inovadores na área de tecnologia. Acredito que o desenvolvimento é uma jornada constante, e estou sempre em busca de novas soluções e desafios.<br><br>Fora do mundo da programação, adoro escutar música, jogar vôlei, encontrar com familiares e amigos e cozinhar — atividades que me ajudam a equilibrar a vida profissional e pessoal.</p>
+### Tecnologias
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eduarda-pessanha/count.svg?"  />
-</div>
+### Projeto em destaque
 
-###
+🐾 **[ConectaPet](https://github.com/eduarda-pessanha/conectapet)** — plataforma full stack para gestão e divulgação de animais resgatados por ONGs. Catálogo público com filtros, formulário de pré-adoção, autenticação JWT e painel administrativo. Construído com React, Node.js, Express e API REST.
 
-<div align="center">
-  <img height="450" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev3.gif?raw=true"  />
-</div>
+### Fora do código
 
-###
-
-<br clear="both">
-
-###
+Gosto de música, vôlei, cozinhar e tempo com família e amigos — o que me ajuda a equilibrar vida profissional e pessoal.
